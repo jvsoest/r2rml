@@ -123,11 +123,11 @@
 			<artifactId>postgresql</artifactId>
 			<version>9.1-901.jdbc4</version>
 		</dependency>
-		<dependency>
+        <!-- <dependency>
 			<groupId>com.oracle.jdbc</groupId>
 			<artifactId>ojdbc7</artifactId>
 			<version>12.1.0.2</version>
-		</dependency>
+        </dependency> -->
 		<!-- h2 allows us to create tables from CSV files in an easy way -->
 		<dependency>
 			<groupId>com.h2database</groupId>
