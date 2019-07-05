@@ -144,7 +144,6 @@
             <groupId>net.sourceforge.csvjdbc</groupId>
             <artifactId>csvjdbc</artifactId>
             <version>1.0.34</version>
-            <scope>runtime</scope>
         </dependency>
 	</dependencies>
 	<organization>
